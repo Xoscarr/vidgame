@@ -1,0 +1,15 @@
+img{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    width:30rem;
+    flex-basis: 70%;
+    justify-content: space-around;
+}
+.var-container{
+    display:flex;
+    justify-content: space-around;
+ 
+}
+    
